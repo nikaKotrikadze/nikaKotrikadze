@@ -18,4 +18,4 @@ I build high-performance applications that don't break under pressure. I special
 * 🧪 Refining sub-word character validation engines for real-time performance systems.
 
 ### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/nikoloz-kotrikadze/) | [Portfolio]([https://kotrikadze.com](http://niko-kotrikadze-portfolio.netlify.app/) | [Email](mailto:nikakotrikadze12@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nikoloz-kotrikadze/) | [Portfolio](http://niko-kotrikadze-portfolio.netlify.app/) | [Email](mailto:nikakotrikadze12@gmail.com)
